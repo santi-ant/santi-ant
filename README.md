@@ -15,3 +15,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-antolinez/)
 
 </div>
+<div align="center">
+
+## 📊 Mis estadísticas de GitHub  
+
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoAntolinez&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoAntolinez&layout=compact&theme=radical&hide_border=true)
+
+</div>
