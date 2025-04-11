@@ -19,8 +19,8 @@
 
 ## 📊 Mis estadísticas de GitHub  
 
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoAntolinez&show_icons=true&theme=radical&hide_border=true)  
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santi-ant&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoAntolinez&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santi-ant&layout=compact&theme=radical&hide_border=true)
 
 </div>
