@@ -4,7 +4,7 @@
     src="https://github.com/user-attachments/assets/e91ed4f9-199e-40f2-9787-2fdc07de280d" 
     alt="Banner de Santiago Antolinez" 
     width="100%" 
-    style="max-width: 900px; border-radius: 12px; margin-top: 10px;"
+    style="max-width: 200px; border-radius: 12px; margin-top: 10px;"
   />
 </div>
 
