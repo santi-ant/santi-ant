@@ -21,10 +21,9 @@
 </div>
 <div align="center">
 
-## 📊 Mis estadísticas de GitHub  
+## 📊 Mis estadísticas de GitHub
 
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santi-ant&show_icons=true&theme=radical&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santi-ant&layout=compact&theme=radical&hide_border=true)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santi-ant&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santi-ant&layout=compact&theme=radical&hide_border=true"/>
 </div>
