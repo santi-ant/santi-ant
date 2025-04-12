@@ -1,13 +1,11 @@
 <div align="center">
-  <h1>Hola, soy <span style="color:#00bcd4;">Santiago Antolinez</span> 👋</h1>
+  <h1>Hola, soy Santiago Antolinez 👋</h1>
   <img 
     src="https://github.com/user-attachments/assets/e91ed4f9-199e-40f2-9787-2fdc07de280d" 
-    alt="Banner de Santiago Antolinez" 
-    width="700"
-    style="border-radius: 12px; margin-top: 10px;"
-  />
+    width="600" 
+    style="max-width: 90%; border-radius: 12px; margin-top: 10px;"
+  >
 </div>
-
 ### 🚀 Tecnologías y herramientas  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
